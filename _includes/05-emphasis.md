@@ -1,5 +1,5 @@
-* C#
-* Python
-* Rust
-* Java
-* JavaScript
+* **C#
+* *Python
+* **Rust
+* *Java
+* **JavaScript
