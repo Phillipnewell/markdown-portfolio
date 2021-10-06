@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# How to improve YOUR markdown portfolio
+###### Phillip Newell
